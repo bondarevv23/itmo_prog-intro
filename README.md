@@ -13,3 +13,5 @@ This repository contains the homework solution of the course "Introduction to Ja
 8. **ms2html:** markdown to html converter, runs in linear time (well, almost)
 9. **game:** console tic-tac-toe m by n with a line of k chips to win
 10. **expression:** a set of classes for evaluating expressions in integers and forming a string representation of an expression with a minimum number of brackets
+
+Detailed description of each homework [here](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
