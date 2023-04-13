@@ -13,4 +13,4 @@ This repository contains the homeworks solution of the course "Introduction to J
 9. **game:** console tic-tac-toe m by n with a line of k chips to win
 10. **expression:** a set of classes for evaluating expressions in integers and forming a string representation of an expression with a minimum number of brackets
 
-Detailed description of each project [here](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
+Detailed description of each project [here](prog-intro.pdf)
