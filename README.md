@@ -6,7 +6,7 @@ This repository contains the homework solution of the course "Introduction to Ja
 1. **Sum && SumLongHex:** а program that calculates the sum of the numbers in the given strings
 2. **Reverse && ReverseHexDec2:** a program that takes a sparse matrix as input and returns it upside down (both diagonally and vertically)
 3. **WordStatWords && WordStatInput:** counting the statistics of the occurrence of words in the input file
-4. **MyScanner:** own scanner based on buffer reading
+4. **MyScanner:** own scanner with buffer for reading
 5. **Wspp && WsppSecondG && IntList:** words statistics again, now on own scanner
 6. **markup:** set of classes for text markup
 7. **qf-solutions:** solving problems of the North-West Russia Programming Championship 2019 in Java
